@@ -1,0 +1,59 @@
+body{
+    background-color: #3498db;
+}
+
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+    nav li{
+    display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    border-radius: 15px;
+    }
+    nav li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+img{
+    width: 100px;
+}
+
+#vocales{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#animales{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#numeros{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#colores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item{
+    text-align: center;
+    color: #f1c40f;
+    background-color: #000;
+    margin: 3px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+    
