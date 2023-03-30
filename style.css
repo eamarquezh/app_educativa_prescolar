@@ -24,6 +24,9 @@ nav a{
 img{
     width: 100px;
 }
+h2{
+    text-align: center;
+}
 
 #vocales{
     display: flex;
@@ -51,8 +54,8 @@ img{
     text-align: center;
     color: #f1c40f;
     background-color: #000;
-    margin: 3px;
-    padding: 10px 20px 10px 20px;
+    margin: 5px;
+    padding: 15px 30px 15px 30px;
     border-radius: 15px;
     text-decoration: none;
 }
